@@ -1,4 +1,4 @@
-import "../styles/components/mainContent.sass"
+import '../styles/components/maincontent.sass'
 
 const MainContent = () => {
     return <main id="main-content">MainContent</main>
