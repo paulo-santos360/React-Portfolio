@@ -1,5 +1,6 @@
 import Avatar from '../img/foto-1.jpeg'
 
+
 import "../styles/components/sidebar.sass"
 
 const Sidebar = () => {
