@@ -12,6 +12,7 @@ const Sidebar = () => {
             <a href="" className="btn">Download</a>
         </aside>
     );
+    /*35 minutos*/
 }
 
 export default Sidebar
