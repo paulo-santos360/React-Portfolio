@@ -1,4 +1,4 @@
-import {FaLinkedinin, FaGithub, FaInstagram} from 'react-icons/fa';
+/* import {FaLinkedinin, FaGithub, FaInstagram} from 'react-icons/fa';
 
 import '../styles/components/socialnetworks.sass';
 
@@ -16,4 +16,4 @@ const SocialNetworks = () => {
     </section>;
 };
 
-export default SocialNetworks; 
+export default SocialNetworks; */   
