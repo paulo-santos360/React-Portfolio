@@ -1,3 +1,4 @@
+import SocialNetworks from './SocialNetworks'; 
 
 import Avatar from '../img/foto-1.jpeg';
 
@@ -8,6 +9,7 @@ const Sidebar = () => {
         <aside id="sidebar">
             <img src={Avatar} alt="Paulo Santos"  />
             <p className="title">Desenvolvedor</p>
+            { <SocialNetworks/> }
             <p>informações de contato</p>
             <a href="" className="btn">Download</a>
         </aside>
